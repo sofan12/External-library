@@ -1,5 +1,3 @@
-# External-library
-dnspython
-time
-dns.query
-dns.message
+# instructions on how to run my codes
+Please enter a PCAP file with a path of the file, otherwise, the file would file to run.
+
